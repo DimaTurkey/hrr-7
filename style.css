@@ -1,11 +1,17 @@
+:root {}
+
+/*hero*/
 a[href="https://www.youtube.com/"] {
-    color: red;
+    color: #FF0000;
 }
+
+/*validator*/
 
 a[href="https://validator.w3.org/"] {
-    color: red;
+    color: #FF0000;
 }
 
+/*tekst*/
 p {
     font-size: 24px;
 }
